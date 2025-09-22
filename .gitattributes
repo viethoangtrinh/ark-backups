@@ -1,0 +1,4 @@
+*.ark filter=lfs diff=lfs merge=lfs -text
+*.ark.gz filter=lfs diff=lfs merge=lfs -text
+*.bak filter=lfs diff=lfs merge=lfs -text
+*.sav filter=lfs diff=lfs merge=lfs -text
